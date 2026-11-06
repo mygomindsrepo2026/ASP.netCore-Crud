@@ -1,0 +1,48 @@
+﻿@model MVCADOCrud.Models.Employee
+
+@using System.Collections.Generic
+
+@using (Html.BeginForm("Index", "Emp", FormMethod.Post))
+{
+    @Html.LabelFor(model => model.Eno, "Enter Eno")
+    @Html.TextBoxFor(model => model.Eno)
+    <br />
+
+    @Html.LabelFor(model => model.Ename, "Enter Ename")
+    @Html.TextBoxFor(model => model.Ename)
+    <br />
+
+    @Html.LabelFor(model => model.BasicSalary, "Enter Basic Salary")
+    @Html.TextBoxFor(model => model.BasicSalary)
+    <br />
+
+    <input type="submit" value="Save" name="b1"/>
+    <input type="submit" value="Update" name="b1" />
+
+    <h3>@ViewBag.Message</h3>
+    <h3>@TempData["Message"]</h3>
+
+    <table>
+        <tr>
+            <td>Eno</td>
+            <td>Ename</td>
+            <td>Basic Salary</td>
+            <td>Da</td>
+            <td>Hra</td>
+            <td>Tsal</td>
+        </tr>
+        @foreach (var item in (IEnumerable<MVCADOCrud.Models.Employee>)ViewBag.Emps)
+        {
+            <tr>
+                <td>@item.Eno</td>
+                <td>@item.Ename</td>
+                <td>@item.BasicSalary</td>
+                <td>@item.Da</td>
+                <td>@item.Hra</td>
+                <td>@item.Tsal</td>
+                <td>@Html.ActionLink("Delete", "Delete", new { id = item.Eno })</td>
+                <td>@Html.ActionLink("Edit", "Edit", new { id = item.Eno })</td>
+            </tr>
+        }
+    </table>
+}

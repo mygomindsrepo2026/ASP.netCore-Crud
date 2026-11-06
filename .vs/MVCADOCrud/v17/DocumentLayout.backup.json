@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RTP-RMS2026\\MVCADOCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|d:\\rtp-rms2026\\mvcadocrud\\mvcadocrud\\emprl\\emprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|solutionrelative:mvcadocrud\\emprl\\emprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|d:\\rtp-rms2026\\mvcadocrud\\mvcadocrud\\empsl\\empservicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|solutionrelative:mvcadocrud\\empsl\\empservicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|d:\\rtp-rms2026\\mvcadocrud\\mvcadocrud\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|solutionrelative:mvcadocrud\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|d:\\rtp-rms2026\\mvcadocrud\\mvcadocrud\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|solutionrelative:mvcadocrud\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|d:\\rtp-rms2026\\mvcadocrud\\mvcadocrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|solutionrelative:mvcadocrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|d:\\rtp-rms2026\\mvcadocrud\\mvcadocrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|solutionrelative:mvcadocrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|d:\\rtp-rms2026\\mvcadocrud\\mvcadocrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9D186-307B-467F-AE14-6E6657F0D51D}|MVCADOCrud\\MVCADOCrud.csproj|solutionrelative:mvcadocrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCADOCrud\\Models\\Employee.cs",
+              "ToolTip": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCADOCrud\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T05:04:51.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\Program.cs",
+              "RelativeDocumentMoniker": "MVCADOCrud\\Program.cs",
+              "ToolTip": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\Program.cs",
+              "RelativeToolTip": "MVCADOCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T05:00:30.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCADOCrud\\appsettings.json",
+              "ToolTip": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\appsettings.json",
+              "RelativeToolTip": "MVCADOCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T04:58:02.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCADOCrud\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "MVCADOCrud\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T05:14:06.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "MVCADOCrud\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "MVCADOCrud\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T04:57:13.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpRepo.cs",
+              "DocumentMoniker": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\EmpRL\\EmpRepo.cs",
+              "RelativeDocumentMoniker": "MVCADOCrud\\EmpRL\\EmpRepo.cs",
+              "ToolTip": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\EmpRL\\EmpRepo.cs*",
+              "RelativeToolTip": "MVCADOCrud\\EmpRL\\EmpRepo.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T04:54:09.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpServiceLayer.cs",
+              "DocumentMoniker": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\EmpSL\\EmpServiceLayer.cs",
+              "RelativeDocumentMoniker": "MVCADOCrud\\EmpSL\\EmpServiceLayer.cs",
+              "ToolTip": "D:\\RTP-RMS2026\\MVCADOCrud\\MVCADOCrud\\EmpSL\\EmpServiceLayer.cs",
+              "RelativeToolTip": "MVCADOCrud\\EmpSL\\EmpServiceLayer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T04:54:31.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
